@@ -1,0 +1,148 @@
+canonical_identifier: bkk:krp/KR6r0068/T/v1
+canonical_location: https://kanripo.org/bkk/KR6r0068/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 天台九祖傳
+  identifiers:
+    krp: KR6r0068
+    cbeta: T51n2069
+    cbeta_old_id: T51n2069
+    authorityid: CA0003240
+    json_key: T2069
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T51/T51n2069.xml
+    old_id: T51n2069
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6r0068_000-T.yaml, hash: 'sha256:25a35773fd1f6b209b6108d4105858168b2f501bda3e4f14369237dc9ca3eac6'}
+  - {seq: 1, filename: KR6r0068_001-T.yaml, hash: 'sha256:556a2bc0c5624393661e6e2492e90e27e9c10574103ff4a8a96b2fb951aeade7'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6r0068_000-T.markers.yaml, hash: 'sha256:981d882cc7371711d372f5a1df331c714c8f8ff7e05bcc75cf95ec5bf9747b41'}
+  - {seq: 1, role: markers, filename: assets/KR6r0068_001-T.markers.yaml, hash: 'sha256:5ed71f78157408bcf4d7349f1cdeb31c960cbea41d8d61be5d4d0d02b21ed026'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6r0068_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 9919
+  label: 天台九祖傳并序
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0068_T_001-mulu-1
+    span:
+    - body
+    - 8
+    - 8
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0068_T_001-mulu-2
+    span:
+    - body
+    - 229
+    - 229
+  label: 高祖龍樹菩薩
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0068_T_001-mulu-3
+    span:
+    - body
+    - 1969
+    - 1969
+  label: 二祖北齊尊者
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0068_T_001-mulu-4
+    span:
+    - body
+    - 2221
+    - 2221
+  label: 三祖南嶽尊者
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0068_T_001-mulu-5
+    span:
+    - body
+    - 4292
+    - 4292
+  label: 四祖智者大師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0068_T_001-mulu-6
+    span:
+    - body
+    - 5434
+    - 5434
+  label: 五祖章安尊者
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0068_T_001-mulu-7
+    span:
+    - body
+    - 7059
+    - 7059
+  label: 六祖法華尊者
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0068_T_001-mulu-8
+    span:
+    - body
+    - 7191
+    - 7191
+  label: 七祖天宮尊者
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0068_T_001-mulu-9
+    span:
+    - body
+    - 7327
+    - 7327
+  label: 八祖左溪尊者
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0068_T_001-mulu-10
+    span:
+    - body
+    - 8209
+    - 8209
+  label: 九祖荊谿尊者
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0068_T_001-mulu-11
+    span:
+    - body
+    - 9496
+    - 9496
+  label: 道邃和上行迹
+  type: mulu
+  level: 1
+hash: sha256:91fd37ba75de17a32fd1b79ab7db7a2e37805640ba62d2d775402ffc5aa4c89d
