@@ -25,9 +25,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6r0068_000.yaml, hash: 'sha256:25a35773fd1f6b209b6108d4105858168b2f501bda3e4f14369237dc9ca3eac6'}
-  - {seq: 1, filename: KR6r0068_001.yaml, hash: 'sha256:95c5d1155a66ac56e97334908b6a6af3367de4143e4ab228c7826554dbc1c86a'}
+  - {seq: 1, filename: KR6r0068_001.yaml, hash: 'sha256:556a2bc0c5624393661e6e2492e90e27e9c10574103ff4a8a96b2fb951aeade7'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6r0068_001.markers.yaml, hash: 'sha256:b42dae6d27705f18fab7037c35226b1a664d25c603f40e54632369d2ee823f7c'}
+  - {seq: 0, role: markers, filename: assets/KR6r0068_000.markers.yaml, hash: 'sha256:def2ee0feae8b461f2f4a365a0d823e75287736c0b92e4f6b262042c99a65e1f'}
+  - {seq: 1, role: markers, filename: assets/KR6r0068_001.markers.yaml, hash: 'sha256:ba6fc8440c24d719c8ce58ca5f9ebde507ed797af001932881e945f693dfb80c'}
 table_of_contents:
 - ref:
     seq: 1
@@ -149,7 +150,4 @@ table_of_contents:
   label: 道邃和上行迹
   type: mulu
   level: 1
-hash: sha256:50d8c71d9a4c411b6d8e1e2d3c705961cfe2c4734802fd63d900f5c896f3aa24
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:a35a9e11db863ba3f9275897943774c77e6237a2e3959767e22cd3b917c4b827
