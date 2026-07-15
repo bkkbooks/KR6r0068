@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6r0068/v1
 canonical_location: https://kanripo.org/bkk/KR6r0068/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 天台九祖傳
   identifiers:
@@ -25,10 +25,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6r0068_000.yaml, hash: 'sha256:25a35773fd1f6b209b6108d4105858168b2f501bda3e4f14369237dc9ca3eac6'}
-  - {seq: 1, filename: KR6r0068_001.yaml, hash: 'sha256:556a2bc0c5624393661e6e2492e90e27e9c10574103ff4a8a96b2fb951aeade7'}
+  - {seq: 1, filename: KR6r0068_001.yaml, hash: 'sha256:bdd0d1cc39decffa7fedacb95c1c607848728d5ebc30fa522b11b4a611689e05'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6r0068_000.markers.yaml, hash: 'sha256:def2ee0feae8b461f2f4a365a0d823e75287736c0b92e4f6b262042c99a65e1f'}
-  - {seq: 1, role: markers, filename: assets/KR6r0068_001.markers.yaml, hash: 'sha256:ba6fc8440c24d719c8ce58ca5f9ebde507ed797af001932881e945f693dfb80c'}
+  - {seq: 1, role: markers, filename: assets/KR6r0068_001.markers.yaml, hash: 'sha256:77aff30c130673ec985145c44fa615cc89cceb1ab1049108fca6e5f478cb081d'}
 table_of_contents:
 - ref:
     seq: 1
@@ -150,4 +150,7 @@ table_of_contents:
   label: 道邃和上行迹
   type: mulu
   level: 1
-hash: sha256:a35a9e11db863ba3f9275897943774c77e6237a2e3959767e22cd3b917c4b827
+hash: sha256:5ad2511eb4833fb4123a2c30f8d3246071c7e4e5f9f2e835410f8e879048f0dd
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
